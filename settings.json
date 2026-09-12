@@ -8,7 +8,7 @@
   "server": {
     "ip": "Ironman07.aternos.me",
     "port": 11011,
-    "version": "26.2 (123)"
+    "version": "26.2"
   },
   "position": {
     "enabled": true,
